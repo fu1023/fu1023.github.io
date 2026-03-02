@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0">
+  <diagram name="第 1 页" id="Z0e_xvfFxJIg_Ntz5pzm">
+    <mxGraphModel dx="1205" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-1" edge="1" parent="1" source="PIUk4pYoLvzdvU2iRCAa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PIUk4pYoLvzdvU2iRCAa-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-2" connectable="0" parent="PIUk4pYoLvzdvU2iRCAa-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value=".rst结果文件" vertex="1">
+          <mxGeometry relative="1" x="0.075" as="geometry">
+            <mxPoint x="-7" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mechanical软件" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-4" edge="1" parent="1" source="PIUk4pYoLvzdvU2iRCAa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PIUk4pYoLvzdvU2iRCAa-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="570" y="370" as="sourcePoint" />
+            <mxPoint x="640" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-5" connectable="0" parent="PIUk4pYoLvzdvU2iRCAa-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PyVista对象" vertex="1">
+          <mxGeometry relative="1" x="0.0526" y="1" as="geometry">
+            <mxPoint x="-4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-11" edge="1" parent="1" source="PIUk4pYoLvzdvU2iRCAa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PIUk4pYoLvzdvU2iRCAa-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="DPF读取" vertex="1">
+          <mxGeometry height="100" width="100" x="450" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-7" edge="1" parent="1" source="PIUk4pYoLvzdvU2iRCAa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PIUk4pYoLvzdvU2iRCAa-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-8" connectable="0" parent="PIUk4pYoLvzdvU2iRCAa-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="标准VTU文件" vertex="1">
+          <mxGeometry relative="1" x="-0.0444" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="VTU文件写入" vertex="1">
+          <mxGeometry height="100" width="100" x="650" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PIUk4pYoLvzdvU2iRCAa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UE" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
