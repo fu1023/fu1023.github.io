@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0">
+  <diagram name="第 1 页" id="ccPdi3IZF_nlnSodgb45">
+    <mxGraphModel dx="1205" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-2" edge="1" parent="1" source="DAcsSLKaLtoFlzcdHfOz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DAcsSLKaLtoFlzcdHfOz-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-4" connectable="0" parent="DAcsSLKaLtoFlzcdHfOz-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="COMSOL模型文件" vertex="1">
+          <mxGeometry relative="1" x="0.075" as="geometry">
+            <mxPoint x="-7" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COMSOL软件" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-5" edge="1" parent="1" source="DAcsSLKaLtoFlzcdHfOz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DAcsSLKaLtoFlzcdHfOz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-8" connectable="0" parent="DAcsSLKaLtoFlzcdHfOz-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="VTU文件" vertex="1">
+          <mxGeometry relative="1" x="0.0526" y="1" as="geometry">
+            <mxPoint x="-4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="API 导出" vertex="1">
+          <mxGeometry height="100" width="100" x="300" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-11" edge="1" parent="1" source="DAcsSLKaLtoFlzcdHfOz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DAcsSLKaLtoFlzcdHfOz-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-16" connectable="0" parent="DAcsSLKaLtoFlzcdHfOz-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="标准VTU文件" vertex="1">
+          <mxGeometry relative="1" x="-0.0444" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="VTU文件标准化" vertex="1">
+          <mxGeometry height="100" width="100" x="500" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DAcsSLKaLtoFlzcdHfOz-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UE" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
